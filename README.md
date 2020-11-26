@@ -1,4 +1,4 @@
-# rick_and_morty
+# Products and Countries
 
 A new Flutter project.
 
